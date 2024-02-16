@@ -1,4 +1,4 @@
-# Proxy_Inverso
+# Creación de un proxy inverso con Nginx
 
 # Instalar Nginx
 
